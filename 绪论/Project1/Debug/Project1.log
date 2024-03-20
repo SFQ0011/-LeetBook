@@ -1,0 +1,3 @@
+﻿  reverse.cpp
+D:\桌面\CppCon\algorithm\reverse\Project1\reverse.cpp(230,27): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\桌面\CppCon\algorithm\reverse\Debug\整数反转.exe
