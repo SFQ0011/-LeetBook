@@ -71,7 +71,7 @@ public:
     }
 };
 
-int main11()
+int main_2_1_1()
 {
     Solution s;
 

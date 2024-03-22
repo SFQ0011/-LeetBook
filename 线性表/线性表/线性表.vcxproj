@@ -142,6 +142,10 @@
   <ItemGroup>
     <ClCompile Include="2.1.1_二进制求和.cpp" />
     <ClCompile Include="2.1.2_移除元素.cpp" />
+    <ClCompile Include="2.2.1删除有序数组中的重复项.cpp" />
+    <ClCompile Include="2.2.2删除有序数组中的重复项2.cpp" />
+    <ClCompile Include="2.2.3合并两个有序数组.cpp" />
+    <ClCompile Include="2.2.4寻找两个正序数组的中位数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

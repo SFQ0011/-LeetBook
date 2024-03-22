@@ -92,7 +92,7 @@ public:
 
 };
 
-int main()
+int main_2_1_2()
 {
     Solution s;
 
