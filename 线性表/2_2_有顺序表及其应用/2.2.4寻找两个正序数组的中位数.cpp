@@ -52,7 +52,7 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 }
 
 
-int main()
+int main2_2_4()
 {
 	vector<int> nums1 = { 1, 2};
 	vector<int> nums2 = { 3, 4};
