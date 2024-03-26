@@ -100,7 +100,7 @@ ListNode* partition(ListNode* head, int x) {
     return head;
 }
 
-int main()
+int main6()
 {
     ListNode* head = new ListNode(1);
     ListNode* pTail = head;
