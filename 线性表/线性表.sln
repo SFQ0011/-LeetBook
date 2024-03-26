@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_2_有顺序表及其应�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_3_链表的实现", "2_3_链表的实现\2_3_链表的实现.vcxproj", "{83844AFB-3279-45C3-ACAE-04942D486545}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_4_单链表及其应用", "2_4_单链表及其应用\2_4_单链表及其应用.vcxproj", "{E6DED480-B999-4E7B-9426-73A1BF14A791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{83844AFB-3279-45C3-ACAE-04942D486545}.Release|x64.Build.0 = Release|x64
 		{83844AFB-3279-45C3-ACAE-04942D486545}.Release|x86.ActiveCfg = Release|Win32
 		{83844AFB-3279-45C3-ACAE-04942D486545}.Release|x86.Build.0 = Release|Win32
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Debug|x64.ActiveCfg = Debug|x64
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Debug|x64.Build.0 = Debug|x64
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Debug|x86.Build.0 = Debug|Win32
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Release|x64.ActiveCfg = Release|x64
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Release|x64.Build.0 = Release|x64
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Release|x86.ActiveCfg = Release|Win32
+		{E6DED480-B999-4E7B-9426-73A1BF14A791}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
